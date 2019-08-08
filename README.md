@@ -53,7 +53,8 @@ The detailed rundown is as follows:
     * A data.json file which containts all hyperparameter details for the run.
 N.B. Model details will be fleshed out in the report.pdf.
 
-* **The interfacing jupyter notebook** is considered the interface layer in which the user can decide on what precise architectures and models to use for the model. With each trained model, the scores against episodes is plotted, with the results forwared to the relevant results subfolder. The modelled agent can also be played from here to the see the solved task at work. 
+* **The interfacing jupyter notebook - continousControl.ipynb** is considered the interface layer in which the user can decide on what precise arch
+itectures and models to use for the model. With each trained model, the scores against episodes is plotted, with the results forwared to the relevant results subfolder. The modelled agent can also be played from here to the see the solved task at work. 
 
 
 
