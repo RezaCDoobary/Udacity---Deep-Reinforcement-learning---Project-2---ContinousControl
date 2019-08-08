@@ -1,0 +1,1 @@
+{"state_size": 33, "action_size": 4, "hidden_size": [512], "adam_lr": 0.0003, "adam_eps": 1e-05, "learner_epochs": 10, "entropy_coefficient": 0.01, "ppo_clip": 0.2, "gradient_clip": 5, "trajectory_length": 2048, "number_of_agents": 20, "discount_rate": 0.99, "GAE_lambda": 0.95}
